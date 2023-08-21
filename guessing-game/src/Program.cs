@@ -7,20 +7,30 @@ var times = 0;
 
 while (!isGuessed)
 {
-    var number = Console.ReadLine();
-    if (Convert.ToInt32(number) < numberToGuess)
+    var number = Convert.ToInt32(Console.ReadLine());
+
+    bool IsGuessed()
     {
-        Console.WriteLine("higher");
+        if (number < numberToGuess)
+        {
+            Console.WriteLine("higher");
+        }
+
+        if (number > numberToGuess)
+        {
+            Console.WriteLine("lower");
+        }
+
+        if (number == numberToGuess)
+        {
+            isGuessed = true;
+        }
+
+        times++;
+        return isGuessed;
     }
-    if (Convert.ToInt32(number) > numberToGuess)
-    {
-        Console.WriteLine("lower");
-    }
-    if (Convert.ToInt32(number) == numberToGuess)
-    {
-        isGuessed = true;
-    }
-    times++;
+
+    isGuessed = IsGuessed();
 }
 
 Console.WriteLine($"Correct! You won in: {times} guesses!");
