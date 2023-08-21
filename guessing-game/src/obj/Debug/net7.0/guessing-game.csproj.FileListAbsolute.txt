@@ -1,0 +1,15 @@
+C:\Source\github.com\cassidoo\guessing-game\src\bin\Debug\net7.0\guessing-game.exe
+C:\Source\github.com\cassidoo\guessing-game\src\bin\Debug\net7.0\guessing-game.deps.json
+C:\Source\github.com\cassidoo\guessing-game\src\bin\Debug\net7.0\guessing-game.runtimeconfig.json
+C:\Source\github.com\cassidoo\guessing-game\src\bin\Debug\net7.0\guessing-game.dll
+C:\Source\github.com\cassidoo\guessing-game\src\bin\Debug\net7.0\guessing-game.pdb
+C:\Source\github.com\cassidoo\guessing-game\src\obj\Debug\net7.0\guessing-game.csproj.AssemblyReference.cache
+C:\Source\github.com\cassidoo\guessing-game\src\obj\Debug\net7.0\guessing-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\github.com\cassidoo\guessing-game\src\obj\Debug\net7.0\guessing-game.AssemblyInfoInputs.cache
+C:\Source\github.com\cassidoo\guessing-game\src\obj\Debug\net7.0\guessing-game.AssemblyInfo.cs
+C:\Source\github.com\cassidoo\guessing-game\src\obj\Debug\net7.0\guessing-game.csproj.CoreCompileInputs.cache
+C:\Source\github.com\cassidoo\guessing-game\src\obj\Debug\net7.0\guessing-game.dll
+C:\Source\github.com\cassidoo\guessing-game\src\obj\Debug\net7.0\refint\guessing-game.dll
+C:\Source\github.com\cassidoo\guessing-game\src\obj\Debug\net7.0\guessing-game.pdb
+C:\Source\github.com\cassidoo\guessing-game\src\obj\Debug\net7.0\guessing-game.genruntimeconfig.cache
+C:\Source\github.com\cassidoo\guessing-game\src\obj\Debug\net7.0\ref\guessing-game.dll
